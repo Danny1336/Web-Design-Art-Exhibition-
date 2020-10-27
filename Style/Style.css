@@ -190,14 +190,14 @@ header{
 	font-size: 16px;
 	text-align: center;
 	padding-top: 173px;
-	color: #727272;
+	color: black;
 }
 .crujoch2{
 	padding-bottom: 21px;
 	font-family: Roboto;
 	font-style: normal;
 	font-size: 32px;
-	color: #000000;
+	color: black;
 }
 .imput1{
 	padding-top: 33px; 
@@ -207,7 +207,7 @@ header{
 	padding-left: 20px; 
 	width: 235px;
 	height: 50px;
-	background: black !important;
+	background: #8D6BAE !important;
 	color: white;
 	margin-right: 0px;
 	border: none;
@@ -216,7 +216,7 @@ header{
 	padding-left: 20px; 
 	width: 235px;
 	height: 50px;
-	background: black !important;
+	background: #8D6BAE !important;
 	color: white;
 	margin-left: 27px;
 	border: none;
@@ -231,7 +231,7 @@ header{
 	padding-left: 20px; 
 	width: 520px;
 	height: 158px;
-	background: black !important;
+	background: #8D6BAE !important;
 	color: white;
 	resize: none; 
 	border: none;
@@ -245,7 +245,7 @@ header{
 	width: 190px;
 	height: 55px;
 	border: none;
-	background: black !important;
+	background: #8D6BAE !important;
 	color: white;
 }
 .imputall{

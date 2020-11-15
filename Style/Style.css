@@ -4,40 +4,45 @@
 body{
 	margin: 0;
 }
-header{
+.header1{
 	color: white;
 	width: 100%;
-	height: 200px;
+	height: 150px;
 	max-width: 1920px;
 	margin:auto;
 	display: flex;
 	justify-content: space-between;
-	background: #8D6BAE;
+	background: black;
 }
 .section1{
 	width: 100%;
 	height: 500px;
-	background: #8D6BAE;
-	max-width: 1920px;
 	display: flex;
-	background: #8D6BAE;
-}
-.imghead{
+	margin:auto;
+	background-image: url("https://sun9-12.userapi.com/tVUzrMEBWy0BLxK5q2ttrjSnwngaYkHG0_L6EQ/Jt8tGMuy19U.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1920px;
+    font-size: 20px;
 	
 }
 .headimg{
-	padding-left: 165px; 
 	padding-bottom: 124px;
- 	max-width: 760px;
+	padding-top: 62px;
+ 	max-width: 700px;
+ 	max-height: 376px;
+ 	height: 80%;
  	width:40%;
+ 	margin-right: 0;
 }
 .section1>.sectionHead{
-	padding-left: 48px;
-	padding-right: 287px;
-	padding-top: 98px;
+	padding-top: 180px;
 	max-width: 659px;
-	width: 50%;
 	color: white;
+	font-size: 26px;
+	margin-left: 71px;
 }
 .sectionHead>h2{
 	font-family: Roboto;
@@ -46,6 +51,7 @@ header{
 }
 .article1
 {
+	max-width: 1920px;
 	width: 100%;
 	height: 299px;
 	background: #FFFFFF;
@@ -73,9 +79,15 @@ header{
 {
 	width: 100%;
 	height: 644px;
-	background: #8D6BAE;
 	max-width: 1920px;
 	margin:auto;
+	background-image: url("https://sun9-12.userapi.com/tVUzrMEBWy0BLxK5q2ttrjSnwngaYkHG0_L6EQ/Jt8tGMuy19U.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1920px;
+    font-size: 20px;
 }
 .article3
 {
@@ -85,12 +97,13 @@ header{
 	max-width: 1920px;
 	margin:auto;
 	justify-content: center;
+	font-size: 20px;
 }
 .Footer{
 	width: 100%;
 	height: 151px;
 
-	background: #8D6BAE;
+	background:  black;
 	max-width: 1920px;
 	margin:auto;
 	justify-content: space-between;
@@ -110,7 +123,7 @@ header{
 
 }
 .list{
-	padding: 73px;
+	padding: 63px;
 	margin: 0;
 	font-family: Roboto;
 	font-style: normal;
@@ -119,7 +132,7 @@ header{
 }
 .logo{
 	padding-left: 361px;
-	padding: 51px;
+	padding: 35px;
 	margin:0;
 	font-family: Saira;
 	font-style: normal;
@@ -132,6 +145,7 @@ header{
 	font-style: normal;
 	font-size: 32px;
 	color: #FFFFFF;
+	padding-bottom: 35px;
 }
 .sectionplan{
 	text-align: center;
@@ -140,12 +154,12 @@ header{
 	font-size: 16px;
 	padding-left:404px; 
 	padding-right:404px;
-	padding-top: 97px;
+	padding-top: 60px;
 	color: #FFFFFF;
 }
 .PosterH2{
 	text-align: center;
-	padding-top: 26px;
+	padding-top: 35px;
 	font-family: Roboto;
 	font-style: normal;
 	font-size: 32px;
@@ -163,24 +177,28 @@ header{
 }
 .imgposter1{
 	padding-top: 38px;
-	width: 243px;
-	height: 181px;
+	padding-bottom: 93px;
+	max-width: 243px;
+	max-height: 274px;
 	margin: 0px;
-	margin-right: 114px;
+	margin-right: 144px;
 }
 .imgposter2{
+	padding-bottom: 93px;
 	padding-top: 38px;
-	width: 243px;
-	height: 181px;
+	max-width: 243px;
+	max-height: 274px;
 	margin: 0px;
 }
 .imgposter2>img{
+	padding-bottom: 93px;
 	width: 243px;
-	height: 181px;
+	height: 274px;
 }
 .imgposter1>img{
+	padding-bottom: 93px;
 	width: 243px;
-	height: 181px;
+	height: 274px;
 }
 .crujoc{
 	max-width: 540px;
@@ -207,7 +225,7 @@ header{
 	padding-left: 20px; 
 	width: 235px;
 	height: 50px;
-	background: #8D6BAE !important;
+	background: black !important;
 	color: white;
 	margin-right: 0px;
 	border: none;
@@ -216,7 +234,7 @@ header{
 	padding-left: 20px; 
 	width: 235px;
 	height: 50px;
-	background: #8D6BAE !important;
+	background: black !important;
 	color: white;
 	margin-left: 27px;
 	border: none;
@@ -231,7 +249,7 @@ header{
 	padding-left: 20px; 
 	width: 520px;
 	height: 158px;
-	background: #8D6BAE !important;
+	background: black !important;
 	color: white;
 	resize: none; 
 	border: none;
@@ -245,7 +263,7 @@ header{
 	width: 190px;
 	height: 55px;
 	border: none;
-	background: #8D6BAE !important;
+	background: black !important;
 	color: white;
 }
 .imputall{
@@ -272,3 +290,6 @@ header{
 	font-size: 21px;
 	color: #FFFFFF;
 }
+
+.parallax {
+ }

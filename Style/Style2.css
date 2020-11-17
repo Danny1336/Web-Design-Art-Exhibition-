@@ -220,12 +220,15 @@ body{
 	height: 654px;
 }
  @media (max-width: 1100px) {
+.article2{
+	height: 629px;
+}
 .footerinfo{
 	padding-left: 100px;
 	text-align: left; 
 	margin: auto; 
 	padding-top: 50px;
-	font-size: 13px;
+	font-size: 24px;
 	color: #FFFFFF;
 }
 	.logo{
@@ -247,7 +250,7 @@ body{
 .headimg{
 	padding-bottom: 124px;
 	padding-left: 20px;
-	padding-top: 150px;
+	padding-top: 180px;
  	max-width: 346px;
  	max-height: 171px;
  	margin-right: 0;
@@ -256,8 +259,10 @@ body{
 	padding-top: 180px;
 	max-width: 659px;
 	color: white;
-	font-size: 15px;
+	font-size: 28px;
 	margin-left: 51px;
+	font-style: bold;
+	font-weight: bold;
 }
 .information{
 	text-align: center;
@@ -289,28 +294,35 @@ body{
 }
 .geogr1>section{
 	padding-left: 50px;
-	width: 280px;
+	width: 600px;
 	height: 197px;
-	font-size: 14px;
+	font-size: 28px;
+	padding-bottom: 30px;
+	font-weight: bold;
 }
 .geogr2>section{
 	padding-left: 50px;
-	width: 280px;
+	width: 600px;
 	height: 197px;
-	font-size: 14px;
+	font-size: 28px;
+	font-weight: bold;
 }
 .geogr1>img{
+	padding-top: 140px;
 	width: 298px;
 	height: 289px;
+	margin-bottom: 150px;
 }
 .geogr2>img{
+	padding-top: 120px;
 	width: 298px;
 	height: 289px;
+
 }
 .article1{
 	max-width: 1920px;
 	width: 100%;
-	height: 770px;
+	height: 1260px;
 	background: #FFFFFF;
 }
 .geogr1{
@@ -322,7 +334,7 @@ body{
 	padding-top: 0px;
 }
 .krymsec>img{
-	padding-top: 120px;
+	padding-top: 230px;
 	padding-bottom: 62px;
 	width: 373px;
 	height: 195px;
@@ -331,13 +343,13 @@ body{
 	margin-right: 10px;
 	padding-top: 140px;
 	padding-bottom: 91px;
-	width: 368px;
+	width: 558px;
 	height: 137px;
-	font-size: 14px;
+	font-size: 28px;
 	color: #FFFFFF;
 }
 .krym>h2{
-	font-size: 16px;
+	font-size: 28px;
 	padding-bottom: 20px;
 }
 .article3>img{
@@ -433,7 +445,6 @@ body{
 	padding-bottom: 90px;
 	width: 280px;
 	height: 197px;
-	font-size: 12px;
 }
 .geogr2>section{
 	padding-top: 40px;
@@ -441,7 +452,6 @@ body{
 	padding-bottom: 90px;
 	width: 280px;
 	height: 197px;
-	font-size: 12px;
 }
 .geogr1>img{
 	width: 248px;
@@ -463,11 +473,9 @@ body{
 	padding-bottom: 91px;
 	width: 330px;
 	height: 137px;
-	font-size: 14px;
 	color: #FFFFFF;
 }
 .krym>h2{
-	font-size: 16px;
 	padding-bottom: 20px;
 }
 .article3>img{

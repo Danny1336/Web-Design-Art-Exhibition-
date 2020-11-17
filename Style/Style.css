@@ -61,8 +61,8 @@ body{
 	text-align: center;
 	padding-top: 87px;
 	padding-bottom: 87px;
-	padding-left: 404px;
-	padding-right: 404px;
+	width: 990px;
+	height: 123px;
 	max-width: 990px;
 	font-family: Roboto;
 	font-style: normal;
@@ -152,8 +152,6 @@ body{
 	font-family: Roboto;
 	font-style: normal;
 	font-size: 16px;
-	padding-left:404px; 
-	padding-right:404px;
 	padding-top: 60px;
 	color: #FFFFFF;
 }
@@ -303,7 +301,7 @@ body{
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 13px;
+	font-size: 28px;
 	color: #FFFFFF;
 }
 	.logo{
@@ -331,39 +329,48 @@ body{
 .headimg{
 	padding-bottom: 124px;
 	padding-left: 20px;
-	padding-top: 182px;
+	padding-top: 180px;
  	max-width: 346px;
  	max-height: 171px;
  	margin-right: 0;
 }
 .section1>.sectionHead{
-	padding-top: 200px;
+	padding-top: 160px;
 	max-width: 659px;
 	color: white;
-	font-size: 15px;
+	font-size: 28px;
 	margin-left: 51px;
+	font-style: bold;
+	font-weight: bold;
 }
 .information{
 	text-align: center;
-	padding-top: 87px;
+	padding-top: 50px;
 	padding-bottom: 87px;
 	padding-left: 10px;
 	padding-right: 10px;
 	max-width: 990px;
 	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 16px;
+	font-style: bold;
+	font-weight: bold;
+	font-size: 28px;
 }
 .sectionplan{
 	text-align: center;
 	font-family: Roboto;
-	font-style: normal;
-	font-size: 16px;
+	font-style: bold;
+	font-size: 28px;
 	padding-left:10px; 
 	padding-right:10px;
 	padding-top: 60px;
 	color: #FFFFFF;
+}
+.article2{
+	height: 744px;
+}
+.crujoc{
+	font-style: bold;
+	font-size: 28px;
 }
 }
 @media (max-width: 767px) {

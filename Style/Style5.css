@@ -136,9 +136,12 @@ body{
 	color: #FFFFFF;
 }
 @media (max-width: 1000px) {
-	.imputALL{
+.imputALL{
 	padding-left: 100px;
 	padding-top: 73px;
+}
+.imputALL>h2{
+	font-size: 28px;
 }
 .footerinfo{
 	padding-left: 100px;
@@ -148,7 +151,7 @@ body{
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 13px;
+	font-size: 28px;
 	color: #FFFFFF;
 }
 	.logo{

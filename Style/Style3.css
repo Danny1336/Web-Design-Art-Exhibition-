@@ -219,7 +219,7 @@ body{
 	text-align: left; 
 	margin: auto; 
 	padding-top: 50px;
-	font-size: 13px;
+	font-size: 28px;
 	color: #FFFFFF;
 }
 .logo{
@@ -241,17 +241,19 @@ body{
 .headimg{
 	padding-bottom: 124px;
 	padding-left: 20px;
-	padding-top: 150px;
+	padding-top: 180px;
  	max-width: 346px;
  	max-height: 171px;
  	margin-right: 0;
 }
 .section1>.sectionHead{
-	padding-top: 180px;
+	padding-top: 120px;
 	max-width: 659px;
 	color: white;
-	font-size: 15px;
+	font-size: 28px;
 	margin-left: 51px;
+	font-style: bold;
+	font-weight: bold;
 }
 .information{
 	text-align: center;
@@ -260,7 +262,9 @@ body{
 	padding-left: 10px;
 	padding-right: 10px;
 	max-width: 990px;
-	font-size: 16px;
+	font-size: 28px;
+	font-style: bold;
+	font-weight: bold;
 }
 .artsec>img{
 	padding-top: 140px;
@@ -270,39 +274,43 @@ body{
 }
 .artperm{
 	margin-right: 10px;
-	padding-top: 170px;
+	padding-top: 120px;
 	padding-bottom: 91px;
-	width: 368px;
+	width: 568px;
 	height: 137px;
-	font-size: 14px;
+	font-size: 28px;
+	font-style: bold;
+	font-weight: bold;
 }
 .artperm>h2{
 	font-size: 16px;
 	padding-bottom: 20px;
 }
 .artsec2>img{
-	margin-left: 10px;
-	padding-top: 120px;
+	margin:auto;
+	margin-right: 5px;
+	padding-top: 130px;
 	padding-bottom: 62px;
 	width: 373px;
 	height: 195px;
 }
 .General{
 	margin:auto;
-	margin-right: 10px;
-	margin-left: 10px;
-	padding-top: 170px;
+	margin-left: 5px;
+	padding-top: 95px;
 	padding-bottom: 91px;
-	width: 368px;
+	width: 568px;
 	height: 137px;
-	font-size: 14px;
+	font-size: 28px;
+	font-style: bold;
+	font-weight: bold;
 }
 .General>h2{
-	font-size: 16px;
+	font-size: 28px;
 	padding-bottom: 20px;
 }
 .artsec3>img{
-	padding-top: 160px;
+	padding-top: 360px;
 	padding-bottom: 62px;
 	width: 373px;
 	height: 195px;
@@ -311,13 +319,18 @@ body{
 	margin-right: 10px;
 	padding-top: 100px;
 	padding-bottom: 91px;
-	width: 368px;
+	width: 568px;
 	height: 137px;
-	font-size: 14px;
+	font-size: 28px;
+	font-style: bold;
+	font-weight: bold;
 }
 .artperm2>h2{
-	font-size: 16px;
+	font-size: 28px;
 	padding-bottom: 20px;
+}
+.article3{
+	height: 950px;
 }
 }
 @media (max-width: 767px) {
@@ -404,7 +417,6 @@ body{
 	padding-bottom: 91px;
 	width: 330px;
 	height: 137px;
-	font-size: 14px;
 }
 .artperm>h2{
 	font-size: 16px;
@@ -423,7 +435,6 @@ body{
 	padding-bottom: 91px;
 	width: 330px;
 	height: 137px;
-	font-size: 14px;
 }
 .General>h2{
 	font-size: 16px;
@@ -441,10 +452,8 @@ body{
 	padding-bottom: 91px;
 	width: 330px;
 	height: 137px;
-	font-size: 14px;
 }
 .artperm2>h2{
-	font-size: 16px;
 	padding-bottom: 20px;
 }
 }

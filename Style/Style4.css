@@ -135,7 +135,7 @@ article{
 	text-align: left; 
 	margin: auto; 
 	padding-top: 50px;
-	font-size: 13px;
+	font-size: 28px;
 	color: #FFFFFF;
 }
 	.logo{
@@ -157,17 +157,19 @@ article{
 .headimg{
 	padding-bottom: 124px;
 	padding-left: 20px;
-	padding-top: 150px;
+	padding-top: 180px;
  	max-width: 346px;
  	max-height: 171px;
  	margin-right: 0;
 }
 .section1>.sectionHead{
-	padding-top: 190px;
+	padding-top: 200px;
 	max-width: 659px;
 	color: white;
-	font-size: 15px;
+	font-size: 28px;
 	margin-left: 51px;
+	font-style: bold;
+	font-weight: bold;
 }
 .sec2{
 	 flex-direction: column;

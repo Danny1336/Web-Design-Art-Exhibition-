@@ -349,7 +349,8 @@ body{
 	padding-bottom: 87px;
 	padding-left: 10px;
 	padding-right: 10px;
-	max-width: 990px;
+	height: 200px;
+	max-width: 880px;
 	font-family: Roboto;
 	font-style: bold;
 	font-weight: bold;

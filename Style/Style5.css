@@ -111,7 +111,6 @@ body{
 	background: #FFFFFF;
 }
 .Footer{
-	bottom: 0;
 	width: 100%;
 	height: 151px;
 	background:  black;
@@ -137,6 +136,12 @@ body{
 	font-size: 21px;
 	color: #FFFFFF;
 }
+@media (min-height: 1000px){
+	.Footer{
+	position: absolute;
+	bottom: 0;
+}
+}
 @media (max-width: 1000px) {
 .imputALL{
 	padding-left: 100px;
@@ -145,9 +150,8 @@ body{
 .imputALL>h2{
 	font-size: 28px;
 }
-.Footer{
-	position: absolute;
-	text-align: center;
+.article1{
+	padding-bottom: 100px;
 }
 .footerinfo{
 	padding-left: 100px;
@@ -183,7 +187,7 @@ body{
 	}
 } 
 @media (max-width: 767px) { 
-	.imputALL{
+.imputALL{
 	padding-left: 100px;
 	padding-top: 73px;
 }

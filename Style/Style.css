@@ -386,6 +386,7 @@ body{
 	font-size: 13px;
 	color: #FFFFFF;
 }
+
 .Footer{
 	width: 100%;
 	height: 151px;
@@ -393,6 +394,10 @@ body{
 	max-width: 767px;
 	margin:auto;
 	justify-content: space-between;
+}
+.Footer{
+	position: absolute;
+	bottom: 0;
 }
 .header1{
 	color: white;
